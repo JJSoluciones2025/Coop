@@ -1,0 +1,201 @@
+sku,articulo,talle,color,cantidadComprada,precioUnitarioCosto
+REMB-NEG-S,Remera básica algodón,S,Negro,20,7600
+REMB-NEG-M,Remera básica algodón,M,Negro,12,8000
+REMB-NEG-L,Remera básica algodón,L,Negro,28,8000
+REMB-NEG-XL,Remera básica algodón,XL,Negro,19,7750
+REMB-NEG-XXL,Remera básica algodón,XXL,Negro,10,8200
+REMB-BLA-S,Remera básica algodón,S,Blanco,22,7900
+REMB-BLA-M,Remera básica algodón,M,Blanco,8,7750
+REMB-BLA-L,Remera básica algodón,L,Blanco,11,7850
+REMB-BLA-XL,Remera básica algodón,XL,Blanco,7,7700
+REMB-BLA-XXL,Remera básica algodón,XXL,Blanco,10,8150
+REMB-GRIMEL-S,Remera básica algodón,S,Gris melange,11,7900
+REMB-GRIMEL-M,Remera básica algodón,M,Gris melange,22,7750
+REMB-GRIMEL-L,Remera básica algodón,L,Gris melange,20,8000
+REMB-GRIMEL-XL,Remera básica algodón,XL,Gris melange,18,7950
+REMB-GRIMEL-XXL,Remera básica algodón,XXL,Gris melange,8,8250
+REMB-AZUMAR-S,Remera básica algodón,S,Azul marino,21,7600
+REMB-AZUMAR-M,Remera básica algodón,M,Azul marino,26,7700
+REMB-AZUMAR-L,Remera básica algodón,L,Azul marino,29,7650
+REMB-AZUMAR-XL,Remera básica algodón,XL,Azul marino,14,7700
+REMB-AZUMAR-XXL,Remera básica algodón,XXL,Azul marino,10,8100
+REMO-NEG-S,Remera oversize estampada,S,Negro,22,10250
+REMO-NEG-M,Remera oversize estampada,M,Negro,12,10550
+REMO-NEG-L,Remera oversize estampada,L,Negro,25,10450
+REMO-NEG-XL,Remera oversize estampada,XL,Negro,18,10450
+REMO-NEG-XXL,Remera oversize estampada,XXL,Negro,10,10850
+REMO-BLA-S,Remera oversize estampada,S,Blanco,19,10550
+REMO-BLA-M,Remera oversize estampada,M,Blanco,8,10500
+REMO-BLA-L,Remera oversize estampada,L,Blanco,12,10550
+REMO-BLA-XL,Remera oversize estampada,XL,Blanco,18,10700
+REMO-BLA-XXL,Remera oversize estampada,XXL,Blanco,4,11300
+REMO-VERMIL-S,Remera oversize estampada,S,Verde militar,17,10650
+REMO-VERMIL-M,Remera oversize estampada,M,Verde militar,27,10500
+REMO-VERMIL-L,Remera oversize estampada,L,Verde militar,11,10750
+REMO-VERMIL-XL,Remera oversize estampada,XL,Verde militar,16,10600
+REMO-VERMIL-XXL,Remera oversize estampada,XXL,Verde militar,12,11150
+MUSC-NEG-XS,Musculosa morley,XS,Negro,11,6100
+MUSC-NEG-S,Musculosa morley,S,Negro,14,6250
+MUSC-NEG-M,Musculosa morley,M,Negro,29,6200
+MUSC-NEG-L,Musculosa morley,L,Negro,22,6250
+MUSC-NEG-XL,Musculosa morley,XL,Negro,12,6200
+MUSC-BLA-XS,Musculosa morley,XS,Blanco,4,6300
+MUSC-BLA-S,Musculosa morley,S,Blanco,18,6050
+MUSC-BLA-M,Musculosa morley,M,Blanco,27,6300
+MUSC-BLA-L,Musculosa morley,L,Blanco,14,6150
+MUSC-BLA-XL,Musculosa morley,XL,Blanco,17,6100
+MUSC-ROS-XS,Musculosa morley,XS,Rosa,13,6200
+MUSC-ROS-S,Musculosa morley,S,Rosa,21,6300
+MUSC-ROS-M,Musculosa morley,M,Rosa,9,6250
+MUSC-ROS-L,Musculosa morley,L,Rosa,19,6300
+MUSC-ROS-XL,Musculosa morley,XL,Rosa,7,6200
+CHOM-AZUMAR-S,Chomba piqué,S,Azul marino,20,14450
+CHOM-AZUMAR-M,Chomba piqué,M,Azul marino,14,14300
+CHOM-AZUMAR-L,Chomba piqué,L,Azul marino,25,14900
+CHOM-AZUMAR-XL,Chomba piqué,XL,Azul marino,11,14900
+CHOM-AZUMAR-XXL,Chomba piqué,XXL,Azul marino,8,15600
+CHOM-BLA-S,Chomba piqué,S,Blanco,17,14150
+CHOM-BLA-M,Chomba piqué,M,Blanco,8,14200
+CHOM-BLA-L,Chomba piqué,L,Blanco,24,14150
+CHOM-BLA-XL,Chomba piqué,XL,Blanco,6,14550
+CHOM-BLA-XXL,Chomba piqué,XXL,Blanco,6,15350
+CHOM-BOR-S,Chomba piqué,S,Bordó,6,14300
+CHOM-BOR-M,Chomba piqué,M,Bordó,18,14700
+CHOM-BOR-L,Chomba piqué,L,Bordó,20,14650
+CHOM-BOR-XL,Chomba piqué,XL,Bordó,13,14200
+CHOM-BOR-XXL,Chomba piqué,XXL,Bordó,12,15400
+CAMO-CEL-S,Camisa oxford manga larga,S,Celeste,19,20100
+CAMO-CEL-M,Camisa oxford manga larga,M,Celeste,13,20050
+CAMO-CEL-L,Camisa oxford manga larga,L,Celeste,25,19850
+CAMO-CEL-XL,Camisa oxford manga larga,XL,Celeste,18,19900
+CAMO-CEL-XXL,Camisa oxford manga larga,XXL,Celeste,10,20550
+CAMO-BLA-S,Camisa oxford manga larga,S,Blanco,9,20000
+CAMO-BLA-M,Camisa oxford manga larga,M,Blanco,31,20150
+CAMO-BLA-L,Camisa oxford manga larga,L,Blanco,23,19550
+CAMO-BLA-XL,Camisa oxford manga larga,XL,Blanco,8,19650
+CAMO-BLA-XXL,Camisa oxford manga larga,XXL,Blanco,6,20800
+BUZC-NEG-S,Buzo canguro frisa,S,Negro,8,24300
+BUZC-NEG-M,Buzo canguro frisa,M,Negro,10,24350
+BUZC-NEG-L,Buzo canguro frisa,L,Negro,20,23850
+BUZC-NEG-XL,Buzo canguro frisa,XL,Negro,5,24700
+BUZC-NEG-XXL,Buzo canguro frisa,XXL,Negro,10,25000
+BUZC-GRIMEL-S,Buzo canguro frisa,S,Gris melange,14,24250
+BUZC-GRIMEL-M,Buzo canguro frisa,M,Gris melange,12,24450
+BUZC-GRIMEL-L,Buzo canguro frisa,L,Gris melange,24,24500
+BUZC-GRIMEL-XL,Buzo canguro frisa,XL,Gris melange,9,24600
+BUZC-GRIMEL-XXL,Buzo canguro frisa,XXL,Gris melange,11,25200
+BUZC-BEI-S,Buzo canguro frisa,S,Beige,14,24050
+BUZC-BEI-M,Buzo canguro frisa,M,Beige,17,24450
+BUZC-BEI-L,Buzo canguro frisa,L,Beige,10,24750
+BUZC-BEI-XL,Buzo canguro frisa,XL,Beige,6,24550
+BUZC-BEI-XXL,Buzo canguro frisa,XXL,Beige,6,25250
+SWEA-CRU-S,Sweater cuello redondo,S,Crudo,21,20450
+SWEA-CRU-M,Sweater cuello redondo,M,Crudo,9,21550
+SWEA-CRU-L,Sweater cuello redondo,L,Crudo,14,20950
+SWEA-CRU-XL,Sweater cuello redondo,XL,Crudo,5,21000
+SWEA-CRU-XXL,Sweater cuello redondo,XXL,Crudo,11,21550
+SWEA-GRITOP-S,Sweater cuello redondo,S,Gris topo,20,20650
+SWEA-GRITOP-M,Sweater cuello redondo,M,Gris topo,13,21500
+SWEA-GRITOP-L,Sweater cuello redondo,L,Gris topo,13,20550
+SWEA-GRITOP-XL,Sweater cuello redondo,XL,Gris topo,15,20850
+SWEA-GRITOP-XXL,Sweater cuello redondo,XXL,Gris topo,4,22100
+CAMP-NEG-S,Campera puffer,S,Negro,10,45700
+CAMP-NEG-M,Campera puffer,M,Negro,18,45550
+CAMP-NEG-L,Campera puffer,L,Negro,23,45900
+CAMP-NEG-XL,Campera puffer,XL,Negro,9,45400
+CAMP-NEG-XXL,Campera puffer,XXL,Negro,10,47800
+CAMP-VERMIL-S,Campera puffer,S,Verde militar,20,45850
+CAMP-VERMIL-M,Campera puffer,M,Verde militar,18,46800
+CAMP-VERMIL-L,Campera puffer,L,Verde militar,14,46850
+CAMP-VERMIL-XL,Campera puffer,XL,Verde militar,6,45250
+CAMP-VERMIL-XXL,Campera puffer,XXL,Verde militar,8,49400
+ROMP-NEG-S,Campera rompeviento,S,Negro,10,27350
+ROMP-NEG-M,Campera rompeviento,M,Negro,22,28250
+ROMP-NEG-L,Campera rompeviento,L,Negro,20,28050
+ROMP-NEG-XL,Campera rompeviento,XL,Negro,19,27600
+ROMP-NEG-XXL,Campera rompeviento,XXL,Negro,6,29400
+ROMP-AZUFRA-S,Campera rompeviento,S,Azul francia,13,26850
+ROMP-AZUFRA-M,Campera rompeviento,M,Azul francia,31,27600
+ROMP-AZUFRA-L,Campera rompeviento,L,Azul francia,29,27900
+ROMP-AZUFRA-XL,Campera rompeviento,XL,Azul francia,11,27150
+ROMP-AZUFRA-XXL,Campera rompeviento,XXL,Azul francia,5,29150
+JEAR-AZUCLÁ-38,Jean recto clásico,38,Azul clásico,13,22950
+JEAR-AZUCLÁ-40,Jean recto clásico,40,Azul clásico,25,22950
+JEAR-AZUCLÁ-42,Jean recto clásico,42,Azul clásico,8,23050
+JEAR-AZUCLÁ-44,Jean recto clásico,44,Azul clásico,9,23850
+JEAR-AZUCLÁ-46,Jean recto clásico,46,Azul clásico,4,24900
+JEAR-NEG-38,Jean recto clásico,38,Negro,13,23500
+JEAR-NEG-40,Jean recto clásico,40,Negro,10,23600
+JEAR-NEG-42,Jean recto clásico,42,Negro,19,23200
+JEAR-NEG-44,Jean recto clásico,44,Negro,11,23000
+JEAR-NEG-46,Jean recto clásico,46,Negro,10,24050
+JEMO-CELNEV-36,Jean mom tiro alto,36,Celeste nevado,8,25350
+JEMO-CELNEV-38,Jean mom tiro alto,38,Celeste nevado,5,24650
+JEMO-CELNEV-40,Jean mom tiro alto,40,Celeste nevado,17,24150
+JEMO-CELNEV-42,Jean mom tiro alto,42,Celeste nevado,11,24100
+JEMO-CELNEV-44,Jean mom tiro alto,44,Celeste nevado,18,24200
+JEMO-AZUCLÁ-36,Jean mom tiro alto,36,Azul clásico,10,24900
+JEMO-AZUCLÁ-38,Jean mom tiro alto,38,Azul clásico,18,24500
+JEMO-AZUCLÁ-40,Jean mom tiro alto,40,Azul clásico,9,24950
+JEMO-AZUCLÁ-42,Jean mom tiro alto,42,Azul clásico,19,25450
+JEMO-AZUCLÁ-44,Jean mom tiro alto,44,Azul clásico,16,24950
+CARG-BEI-38,Pantalón cargo gabardina,38,Beige,8,21900
+CARG-BEI-40,Pantalón cargo gabardina,40,Beige,29,22250
+CARG-BEI-42,Pantalón cargo gabardina,42,Beige,17,22250
+CARG-BEI-44,Pantalón cargo gabardina,44,Beige,14,21850
+CARG-BEI-46,Pantalón cargo gabardina,46,Beige,10,22500
+CARG-VERMIL-38,Pantalón cargo gabardina,38,Verde militar,14,22500
+CARG-VERMIL-40,Pantalón cargo gabardina,40,Verde militar,20,22250
+CARG-VERMIL-42,Pantalón cargo gabardina,42,Verde militar,11,22300
+CARG-VERMIL-44,Pantalón cargo gabardina,44,Verde militar,15,21750
+CARG-VERMIL-46,Pantalón cargo gabardina,46,Verde militar,3,22850
+JOGG-NEG-S,Jogger frisa,S,Negro,14,15550
+JOGG-NEG-M,Jogger frisa,M,Negro,9,15200
+JOGG-NEG-L,Jogger frisa,L,Negro,11,15700
+JOGG-NEG-XL,Jogger frisa,XL,Negro,7,15200
+JOGG-NEG-XXL,Jogger frisa,XXL,Negro,5,15900
+JOGG-GRIMEL-S,Jogger frisa,S,Gris melange,14,15500
+JOGG-GRIMEL-M,Jogger frisa,M,Gris melange,31,15050
+JOGG-GRIMEL-L,Jogger frisa,L,Gris melange,23,15150
+JOGG-GRIMEL-XL,Jogger frisa,XL,Gris melange,10,15400
+JOGG-GRIMEL-XXL,Jogger frisa,XXL,Gris melange,6,16550
+CALZ-NEG-XS,Calza deportiva,XS,Negro,7,9950
+CALZ-NEG-S,Calza deportiva,S,Negro,21,9850
+CALZ-NEG-M,Calza deportiva,M,Negro,23,9900
+CALZ-NEG-L,Calza deportiva,L,Negro,12,10050
+CALZ-NEG-XL,Calza deportiva,XL,Negro,5,9650
+CALZ-AZUMAR-XS,Calza deportiva,XS,Azul marino,13,9650
+CALZ-AZUMAR-S,Calza deportiva,S,Azul marino,14,9750
+CALZ-AZUMAR-M,Calza deportiva,M,Azul marino,31,9600
+CALZ-AZUMAR-L,Calza deportiva,L,Azul marino,13,9550
+CALZ-AZUMAR-XL,Calza deportiva,XL,Azul marino,18,9850
+BERM-BEI-38,Bermuda de gabardina,38,Beige,14,14050
+BERM-BEI-40,Bermuda de gabardina,40,Beige,21,13900
+BERM-BEI-42,Bermuda de gabardina,42,Beige,7,13450
+BERM-BEI-44,Bermuda de gabardina,44,Beige,10,13900
+BERM-BEI-46,Bermuda de gabardina,46,Beige,6,14450
+BERM-AZUMAR-38,Bermuda de gabardina,38,Azul marino,9,13950
+BERM-AZUMAR-40,Bermuda de gabardina,40,Azul marino,23,14150
+BERM-AZUMAR-42,Bermuda de gabardina,42,Azul marino,20,13950
+BERM-AZUMAR-44,Bermuda de gabardina,44,Azul marino,10,14150
+BERM-AZUMAR-46,Bermuda de gabardina,46,Azul marino,7,14550
+VEST-NEG-XS,Vestido midi viscosa,XS,Negro,7,18350
+VEST-NEG-S,Vestido midi viscosa,S,Negro,18,18350
+VEST-NEG-M,Vestido midi viscosa,M,Negro,30,18650
+VEST-NEG-L,Vestido midi viscosa,L,Negro,29,18850
+VEST-NEG-XL,Vestido midi viscosa,XL,Negro,9,18300
+VEST-ESTFLO-XS,Vestido midi viscosa,XS,Estampado floral,6,18650
+VEST-ESTFLO-S,Vestido midi viscosa,S,Estampado floral,5,18500
+VEST-ESTFLO-M,Vestido midi viscosa,M,Estampado floral,29,19000
+VEST-ESTFLO-L,Vestido midi viscosa,L,Estampado floral,8,18700
+VEST-ESTFLO-XL,Vestido midi viscosa,XL,Estampado floral,6,18650
+POLL-AZUCLÁ-36,Pollera de jean,36,Azul clásico,14,14050
+POLL-AZUCLÁ-38,Pollera de jean,38,Azul clásico,9,14400
+POLL-AZUCLÁ-40,Pollera de jean,40,Azul clásico,12,14400
+POLL-AZUCLÁ-42,Pollera de jean,42,Azul clásico,7,14600
+POLL-AZUCLÁ-44,Pollera de jean,44,Azul clásico,19,14250
+GORR-NEG-U,Gorra visera curva,U,Negro,10,5450
+GORR-BEI-U,Gorra visera curva,U,Beige,27,5650
+GORR-AZUMAR-U,Gorra visera curva,U,Azul marino,33,5500
+MEDI-BLA-U,Medias deportivas pack x3,U,Blanco,16,3950
+MEDI-NEG-U,Medias deportivas pack x3,U,Negro,14,4000
